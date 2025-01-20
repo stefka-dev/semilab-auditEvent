@@ -1,7 +1,6 @@
 using System.Text.Json;
 using AuditEvent.Storage.Models;
 using AuditEvent.Worker.Dtos;
-using AuditEvent.Worker.Dtos.MessageProcessorDtos;
 using AuditEvent.Worker.Interfaces;
 using AuditEvent.Worker.MessageProcessors.Abstracts;
 using Microsoft.EntityFrameworkCore;
