@@ -73,3 +73,8 @@ You can set implemented MongoDB connection string and database name.
 ### Run
 
 `dotnet run --project .\AuditEvent.Api\AuditEvent.Api.csproj`
+
+
+# Future development
+
+- Dynamic and settable topic configuration (multiple) for subscribe
