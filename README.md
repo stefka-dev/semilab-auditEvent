@@ -2,7 +2,7 @@
 
 ## About working logic
 
-![](.\working_logic.png)
+![working_logic.png](working_logic.png)
 
 This application connect to AMQP broker specific topic (`auditevent`) and try to process subscribed messages and saves to database.
 If you would like to use other topic you need to add a new topic name to `MessageProcessorFactory`.
