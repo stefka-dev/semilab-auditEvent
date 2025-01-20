@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditEvent.Worker", "AuditEvent.Worker\AuditEvent.Worker.csproj", "{43825EA9-AD57-4A16-B0B2-5CF0A33E07B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditEvent.Api", "AuditEvent.Api\AuditEvent.Api.csproj", "{5C53A942-44E2-4825-A0DA-947C83AE06C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditEvent.Storage", "AuditEvent.Storage\AuditEvent.Storage.csproj", "{EDBC1665-F2FC-4A33-AAD6-82DB265BF036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43825EA9-AD57-4A16-B0B2-5CF0A33E07B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43825EA9-AD57-4A16-B0B2-5CF0A33E07B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43825EA9-AD57-4A16-B0B2-5CF0A33E07B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43825EA9-AD57-4A16-B0B2-5CF0A33E07B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C53A942-44E2-4825-A0DA-947C83AE06C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C53A942-44E2-4825-A0DA-947C83AE06C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C53A942-44E2-4825-A0DA-947C83AE06C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C53A942-44E2-4825-A0DA-947C83AE06C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBC1665-F2FC-4A33-AAD6-82DB265BF036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBC1665-F2FC-4A33-AAD6-82DB265BF036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBC1665-F2FC-4A33-AAD6-82DB265BF036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBC1665-F2FC-4A33-AAD6-82DB265BF036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
